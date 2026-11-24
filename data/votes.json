@@ -1,8 +1,3158 @@
 [
   {
-    "id": "34facaf7-233f-4e88-a555-50a44c6d9151",
+    "id": "ef34037c-c451-4c9f-8085-fa6e1db047dd",
     "candidateId": "lista-2",
-    "timestamp": "2026-11-24T17:28:04.831Z",
-    "terminalIp": "2001:1388:4463:18a9:34a7:fab8:3f9d:8e8"
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a9044d64-2c8f-4d63-a0c1-0eaf4d671641",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d7105056-ce1f-44c1-b892-e117aa966d08",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "81422135-e96f-4048-be02-dae396e8a482",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4a587884-4b9c-4867-8aef-c50bb531c1ba",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b7def6f5-0ce4-42a9-8a5b-3be05fe5e267",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0a7bdfac-dfa8-4016-8e6b-3c6c5c8745f0",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d63180bb-faa5-4b25-ac19-cd754d29020e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7437714a-069b-476e-b803-e3bfceb1a355",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0aa21078-5f62-479d-b70b-0622c27db7c5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ba34518e-777a-4e2f-aa9e-878539f20960",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4055852c-c5f1-4b85-9a35-0ee391b34e91",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "926cae9d-34ab-42aa-8cd4-6f6426b105c4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "33b86a59-a105-45b3-b021-3f0a96af8404",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3e0802c6-e019-4235-b106-a2d4d3ff7c34",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7ad18c13-d3d5-44bb-bef1-e88a80bf6256",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e24047bd-29e6-433b-a6bd-a31d6ab1f816",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f1f3948f-b57d-42d1-8476-172548cdfa09",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e23e52b0-317f-4241-beeb-de36af0f8755",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "de639d21-c977-4761-90a9-0a1c1d633cfc",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1e711840-20ef-48c7-8de6-0ed96acd9994",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4fddf325-44a7-4277-812b-31ec483aeb8d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "24c6a7df-9ebb-4ac3-b0b4-50e51dc003f1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e4cbb652-eb63-4fd2-adfb-5bf03ed5e8c1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "af2302da-0199-4b89-acba-913449c8eae3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "71ea7a3f-0d62-4213-933a-d977cd964ad2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "09796c0a-59be-42ae-b6af-b3e8253d5ac4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2ac12c27-ee91-4849-86aa-c0fb530f8573",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0ac0f456-cd48-4d28-9d03-eef6014495a8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5387e73b-079c-46f3-a960-88cda1c44c72",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ad89d46f-4164-4cca-967f-83d03c345e0b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b7934396-70dc-4e20-9f7d-6864dcf004d5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0c6b6d10-30a5-454b-8ff4-3eac4d804bff",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a8df64b6-4ca1-4033-a7a1-0324a9701685",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b913d8a0-d768-4486-b14b-e1fb3ee17fb2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ecd72be5-0090-4d05-9975-65f345f0b2f9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "299dc4c6-c75c-4190-9a26-6747b96da8aa",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "321599e2-3509-4195-970a-53061d341267",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "38527d58-9f97-4b84-95ba-8ad3aadf7475",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "16504569-83ba-4b69-9df6-2327bd655374",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0ac31959-27eb-41f5-b7e8-ee29cb921cc0",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c694f1c5-494a-45bc-8bc1-bb4f0065f6a5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "505289af-6a84-4269-a75f-66d272973743",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1eb84010-6f53-4db6-b06b-f1e5ac6b1c39",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6ab9cbbf-84dd-4e4a-af9e-7372de0f8dc4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b5c87977-4673-4660-9142-15b392d0c27f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e682c41b-77b0-42d5-8ca8-d0f54cdedc7c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "aa82f679-1b4d-464f-ae34-d285b5d9c941",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8826283b-3228-4dcb-a70e-ce461880795c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2f43b9ed-c82f-44c3-9297-0394ae79e557",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d6f1d217-1eab-4ba5-8b70-a550e49e33a2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2e5e0524-182a-4441-b60f-89f044ded029",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f10a1235-a18a-41ec-9cc5-1c195a0d82b7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0dc463cc-664c-4f45-8b2d-b8b05e8d5f23",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c9d5d014-1779-4c42-976a-22d183cdb2c1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8c8c6ba1-f265-4836-badf-bccc63b4a07c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c8fbb105-ae05-4cd7-80f9-a406e81fc2a5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "48702b68-8a5d-499d-be75-b47c63fa6032",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "bccf27f7-95bd-4714-9878-99b9503e9bb2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ea46c481-9b74-4869-a779-1af0addc8f0c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "37a8b74f-cbf8-412b-a60f-449e93eeddb0",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2b958810-e921-41af-bef8-9ec3fbb616b2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "68165f5e-6349-4e9d-aaad-f36a4ec31f59",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "afb79b72-1d4b-41b0-8d13-a0cc595374a7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c6707422-4929-4afe-9049-51bfb3146c30",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a117622c-f9d0-4120-a053-ec846fe18a9d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "777d608f-45ff-43ef-90a8-b73d7577e8c7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0be731bd-e6bc-4499-bff2-c461d121cfc1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "747aed38-135f-40b5-85d6-0fb3ae1ab198",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "30b28678-fbaa-4d67-9de2-d777b695d4d1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "283462e1-4edd-4a8d-ac8b-06cdd800447c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "866b1adf-bf2b-4be5-8c7e-3cb3fb9187cc",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "728a395d-9c19-4479-8aad-9a98b0094145",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8b2b2dcb-6c7c-4dc6-8882-0e3c2b93fe77",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5db12207-edbe-4e92-926f-9380215ddc82",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9c3acf20-9d7a-424f-82a9-8e3b5ea39f60",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a9b0df3d-680d-4a11-940d-1c35544f87d4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "20553cb8-f9c4-482b-9f00-349b05dcd70d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "37795b58-a466-4216-85b5-c026389d6d87",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6fd498e6-7bc8-4cc6-b3ce-ec95e93bc8b7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e0343602-9cbc-4ebe-b568-02e6d1662806",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7b67d17d-8a11-42ed-b475-532b8db7d665",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c5c639dd-756f-43a6-b3c0-7d1ea204f3b4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9b8f0e3e-650c-4445-8ef2-83124cad3d9b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "779b355e-e7da-484b-951a-3f9377ebfc75",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b7dbbae9-64de-4feb-b62c-839aa79bf3fe",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8ed75f85-defc-4203-b056-d2e905666e72",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3f88124a-fe77-4653-a5f3-cf6b0df6190a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3a28793c-1d64-4059-ad0a-0434e0c67264",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0d93506e-95a4-4c08-afca-123fff683d7f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8da9d20f-972e-487f-9db2-98afe37c5c91",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6449e828-bfb1-49e5-a3e5-d774fb1ec084",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d8edff97-6921-4f67-9c72-1d3ccd8b7d31",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b79e720e-2fb5-409b-8028-8da846a11cf8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d987fc4a-1bbc-4a47-ade3-a7d5f1138755",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "16d2892e-d630-4e15-81d3-ee58fdce5a83",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f8ea4164-f1fd-4cce-a31d-2145e6409e8e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6abb77ae-3fa1-4b27-b6b5-5bda50c30728",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a1ff525c-3eec-4636-b382-9eb3ea925f0d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6767bc18-4854-4f97-a0ea-01e98b0ca1d5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "08713906-f8dd-4b86-bb51-67bb2dc023b1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e19ecfc2-9894-4136-96af-23903a6b1987",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1b062fc0-196a-4c1d-adff-22374819a52f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "544fdc60-d649-46ae-a63f-afc3442a0eb6",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6929b73c-c78c-46b3-a0f6-82107854c17f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c2c77dab-7148-4052-b121-ec4f77da8a4c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2f8a5c3d-f521-4b49-8f95-fdfbe47108d7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3f4eb46a-dad9-4db4-b583-6b72c4b93b36",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e46d2d37-584b-4ed6-ab2c-3f446ed3d62d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f0d45814-2dc0-4c4a-a540-69ffe4cdf248",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "af2ccbb2-53d1-4dbe-b633-9e9024577191",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "313155e5-ae6d-4df4-a75e-f76478e93c2d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a9b7b54b-79aa-4807-97f5-2c7b887d206c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a83a51cf-ebf1-4688-8d7e-008d138a32a1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3370c56e-f4d2-4949-8893-97e884f43c59",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0c248762-feb9-4ef3-85fa-a2e6e6466e16",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2c399f7e-afd8-4ffc-906b-0bdcefaff3ab",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "60923fd2-a698-4609-9831-311beb6f54c0",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "91737ae3-b195-423c-892b-d173296978f3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "96e69a4c-c736-40dc-8523-f84cf3145235",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "fbc438ae-c42a-49ce-bce4-59f98740e8f6",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a5274e02-443c-4eaf-ae1e-5f4ee599c446",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "24ee826f-c65d-44ea-b622-2b102986acb8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5d131f99-627a-4652-a855-2fabcf4adb01",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3098eab4-233e-4c96-ba4e-1e9a5a0ce9b1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0ac53c33-4662-4d79-9366-df8d1e00a80f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a74afa02-e33d-4a4d-a1a7-8b9d5c3c5cec",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "dfaf0319-15bd-40e7-99c2-7624b18a35ae",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cf789939-3165-4cd6-99b8-196440bc5188",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3a1cbd65-6b59-4169-9c99-b98ee002452f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "48a03d6c-20c1-4862-b9d3-ee8aafee825e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "110138a1-5543-4220-aab0-4355929dba30",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "07643291-265e-4c6f-affa-88dcebdc8124",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6f10b298-6fab-4f0c-af53-76ec5622a7dc",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7e7ebba6-a5b7-4f68-812e-848c0f6655d8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b57f0bbb-3567-4a48-9042-09388b1280fb",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b42a26f4-0e39-44b9-8f7e-6d3d81f507ee",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5ced14e8-85e9-4770-ba0c-81052984888b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "95f3f4b8-bd17-434c-ad99-3fdef29dbf3b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e44b9178-5061-4f77-b0c8-4a9ef24849e8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b1fbad26-f9ed-4996-9e90-b95eb7e10baa",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "47cb4de0-8f9d-4caa-94d1-dd7897ba9bf3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "61b363af-fc8d-4223-8848-b0ef6ba2a402",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "793f930b-c506-42bb-acd5-78d4e9796d7c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1c70a376-b920-46af-84b5-56e804dd332a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3d2b6763-b066-4a2e-a2b7-b74b69fe7ee7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4979cbfb-d923-4605-b11d-d7ccacc8066e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5fe6c6c3-3494-457c-b36c-b3ca7ecfd46a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2a4c981f-999e-4ac3-b8c4-c4f1cdce53ca",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "be95ec4d-5076-44ab-b47c-d4b9aa044bf7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8c5f6f33-4a6b-4561-ace1-cdd3e72a919f",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3552203e-8da8-41e0-8b10-7a5e35055d99",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "caaee1bf-e914-4d98-92e8-589911e2d7a6",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "84bda875-ae7a-4fe8-a68f-c654ff4435c1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3c4575da-7e12-4eea-8431-a04783ed029d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "fce726ae-c6e2-4c08-8a44-7f7f5aff4241",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5a12cbe2-d1f0-42e4-b8e2-77d9cd97e246",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0fea6919-e9b1-4dc8-9128-875edd83e3ae",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "869c6218-7ceb-4057-82cc-5336c554aeef",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "122152fd-e8fc-40dc-a7bc-1fa0d25b2ace",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "486a787f-f573-4a0d-939e-adfdcf06e1bb",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "41cc8264-cc59-48e2-9234-2d909ca47de6",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5603d3df-5f11-4c8c-bd07-b68d92d8522e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ad6764ba-8b32-425d-a8d4-7233b9d038d6",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "16cce7e0-6f06-4139-8d17-8c19c714fba4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3adcde62-a833-48d8-b5c8-2a34a157c716",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5c95beff-da9b-4228-9e23-e8a91ca7e80b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "97db0c80-e245-49bf-93cd-ebd759211f4a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a161b4e3-e083-48bb-bb73-a66a8b642b1e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cc38afb0-b9e4-4f1f-b905-6fb40ef712b4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "75fc3d0b-f84f-41b2-b4fe-3243067f128a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d8f7e1ac-4e02-4ae8-a893-d506ca248c45",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "18b5dfb9-2afc-449e-b5fd-56ce903984d3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8dac3b88-e276-41c1-989c-17824cecb685",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "01ace39a-429a-47b1-a5bc-6a6ed7da6475",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b77f761a-5cde-489b-a995-f461e0115b8d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "962d1333-764e-4ac1-9845-ab1328edaf39",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "38133e48-aec6-4d2c-a21f-bd267fa6486d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b97e3714-e210-4caf-962f-e0a26df83825",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1a1ccd2a-13b3-43ba-b4d6-2970284182e9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "20488aaf-dfd1-45fb-98a5-1d46ee2c6436",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e7405330-45c1-4672-9624-bb44e51a2611",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ae932009-25d8-47cf-a70e-fb3da4eab913",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6a587480-4613-45dc-9db5-73a1f80960d1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "738acd00-f45f-43b0-889b-abea1e2a2088",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1c106536-0c0e-45b6-a794-10c75e5b2964",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "543023ed-2215-4d7b-8c86-190d33d14ce1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4e2b40b5-69fd-4f43-9508-5207d9cdb2b3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9e1615bc-d4f4-4464-86b3-22b15fb38a67",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "581087e2-a1b6-4a44-a673-f7bc67433dd4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a76d88a6-ef4d-4bd4-b29c-382daeabf5e4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "79a6ddfd-666f-47a2-bda1-7eb1b0e27c43",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4a10898f-feaa-4fcc-869d-6820c58070ff",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "62f2ff3e-6ce7-45de-bbf5-2cd5cc2591f9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "43015b2f-c24e-45d0-9292-187948884c61",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0749a9de-80f4-4488-9c64-513af325374a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "16595e7a-4713-4cd7-9ea9-d1a8640cc2a7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0e3cacd1-404a-47b3-bc66-c2f610071355",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "997e71cc-0772-4546-9a5f-6e7b109e76ac",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "dae87267-349f-4b5e-80a0-7798993b3fb9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6826971a-be07-4bdc-a366-e13c3673d0b3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "00194941-88b9-4e77-8562-61b8c1d607ac",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f238c56e-4f02-4247-89cd-fc1466eb1d4b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8df30692-8295-48f7-ac03-5a188a7a6aa8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "231f993d-e2e0-4752-ad2d-49e4bb35bd70",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0023a2af-5c20-4447-8b09-ed9888ebbdcd",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9edbf2c1-b1cd-4985-a256-f4dba70bd293",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "823f0803-b23d-446c-8e84-59a6d382cd65",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b8d24918-c5b6-40ef-af8d-004d8161e3ab",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "11335a4a-48f1-4fa0-93e5-208cec38a653",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2290ebfc-645b-4b8b-9e7c-c5da1746de78",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "dd062c02-d17b-48fd-b640-efd924c12dd8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b331e248-c5cd-42d7-adf6-93259dda4776",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e12031fe-d0c7-494d-9f87-34d7ee051e3b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d1caa3c8-d59c-40fb-9b17-780e1a5873ef",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d7c05db4-214f-4e25-9f6a-54d032962737",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "dedfc3c6-da58-425e-af1b-bdce1264f450",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "aa371949-4793-4a4e-8c3c-8e63d0dc00b8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "52e8785a-762b-4333-95fe-fdb5ce54c400",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "70246800-02fe-4e79-b7ea-e2452e76cee1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6504d919-a7e6-4dec-9c57-b8a69f92cdb1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2b8e6870-3109-4a20-b90d-c04305395882",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "57cd348e-fc03-4bb9-88d0-31bdb86eb1a3",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "146092c0-78fe-4bae-bd77-01468b7cad9a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d6445fba-7fce-4aec-a5df-29f0a5f1ae90",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "60c7a591-dbcd-4c8c-875f-f7a095844b23",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4bcd195c-e672-4ecf-82df-ba55e88d5f1a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9f1cca8b-bbbc-4ef8-8d15-81bd233d7d72",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e3aac37f-7a6e-433d-938d-607423790218",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "12fa6c3d-8ef5-4718-97b9-2a5711393f5d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a6c82756-cd2a-4e17-b58a-2a7e4bf613aa",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5be6a9fd-165c-4a76-92fc-2344806d8827",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "78c8e0ac-169b-46c3-b620-9d395e935e3a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "974ed89e-7540-49b2-b468-17b1c90d8392",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "79196fe8-b3e2-40d3-99dc-5d35c238b655",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4d8c60ee-1347-452b-9b76-4d8ff2bfbfc8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "66febc20-74af-4603-9c96-6a2f776a1cde",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "404f97a7-2e20-4337-b176-ee0e3b49af2e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7b49f020-a427-43c3-8cb3-97fc111f5a48",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3b144e41-e95d-4296-9714-055245874a8e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4f52aa90-6147-4a54-b146-7706d2ba189d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8d49467f-7a71-412f-8c08-d9f46533de44",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ad9870b8-7bac-408f-a4e9-50eb727a079b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4196fe7d-94a2-4883-970c-1b70c0474ecb",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4073a372-b478-466e-9459-1d14f632e6f2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "30e63a52-6098-4ccf-86f7-81cd3105e0d1",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c1f4ba79-7f2d-4dc9-b3f0-d16b3eeb211a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5b198ca9-cb07-4aa9-b3fc-7147e97405c8",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "473f9af7-31d0-406c-aaba-f8bcbb4a7e17",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5ba053c5-d765-49f2-ba49-2d50ad88d91a",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1af40b83-8b1f-4e67-9c26-a2a0ece7ba2d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a697cdf0-417c-4c10-aefa-ba4d274476db",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d483e320-f0ae-4b63-b915-436f92da6963",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "11956735-8a26-4bd2-9df3-d6252aec349e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "275b7d2e-697d-4ed6-a8ce-da1639a082e9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1c32ac0f-fdb3-45f9-944d-7fe34efc57b9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "153d958f-7b2c-408b-930d-bfec5805c8a4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "66893c80-a794-4eff-a22e-a99c40e8fde0",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3178be84-8bdf-46a0-9e48-d593f575c650",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "597e11a7-8173-4ee4-b687-b037cf58f05b",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8fbf4150-3d9d-4f8a-8206-99b8b13491a4",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2933d62a-44c3-4258-b433-6f3d5c16b464",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "54d2377c-e514-4441-a386-a0edd55a35e7",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "46aa9fe8-8fdd-4215-9d70-f015e6bd51f5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3613c88d-8cd6-4753-bc23-bec741ea6185",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ad0b35ef-286d-444f-b119-a4a4606d0199",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5084372a-ce2e-4000-8559-64af9eba462e",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7391d4b2-fb7e-46eb-a0a4-189ad10f6247",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "297f84ec-520a-4367-bceb-940ec867f5c2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cd106721-2cec-4e3b-8994-b58beb084e93",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "575808e9-33be-4e22-a151-19fbf6dda33d",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "47c68d4c-1a51-49fe-8221-019f141339f9",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "036e8d04-43b1-4c48-a1e9-e33b17c25182",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "da1073da-a276-4f9a-b31a-0492366c4d86",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "918a590b-bb64-4926-b792-d9f036cc838c",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e1abebfc-2b36-45a7-b173-d92e643c11db",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "85028a57-4e62-405c-94c4-f7011335cf18",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3d91ce05-e999-4505-98ea-4dfac85fc121",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cd79c34b-8788-4a8a-8370-1a02b10973e5",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9d2f1efa-61a7-425c-9242-75af7643a612",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8ae527ad-78c0-4226-b36f-fab372e39cb2",
+    "candidateId": "lista-2",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6e526eed-4b0a-4c03-a85a-c59899cb8869",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3fda796f-e370-4ee0-93c2-abb2382da6a3",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "74c535da-ca74-4624-975e-f71e065fd50c",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "01653d4a-aa8d-4d47-a46a-8a85a06d1666",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "749014c9-1a33-484e-b1d7-9e7c2230cf0b",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ab0fe713-35a2-410f-a1e5-ddeafab74850",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c2a985a4-3f00-45af-8ec6-0c3fdf8fbf44",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9c0a7602-ad34-48f6-9360-07cfb4cc7d38",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "eabe5412-302e-4660-ac4c-8a1191855c14",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "de6fe470-2d34-4955-8c36-6358fe728c9b",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d6eb656e-839d-4a81-9e43-bc094ad6798e",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "30559cf3-b5fd-4303-8f73-11f7e7fcbbec",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "02d3222a-93cf-482c-a109-c35f36abfd40",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "56eeaea1-c965-4bcf-a310-714c62af5fbe",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "96c446bd-5e02-481e-b6fd-a73751561c36",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3ae352f9-14f5-4925-9baa-cc054bebc9f7",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3fc84fc3-c572-44e1-adef-dd6744869609",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "795ef117-7dc2-4e43-b431-5bbed0cc4589",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e8d4a7ea-92a4-48e7-ac1c-3a249ec19011",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0620bcb6-7d73-4fdf-87a8-84c51181bbcc",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0bb99ec6-9d0e-4dcf-b801-4cab721e3863",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1b024132-7e65-448c-801a-f5f191f9b5d9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3cdb0f5f-e61d-4e5e-80b1-3aa2518f9c27",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "87bd8edf-f894-4abf-adbb-8ffc6bcbe255",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "02cdc8f2-5736-4c2d-8336-eafc61d91b97",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2dce7be5-333e-4132-a905-4162457bdcfa",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a1cfff65-2aa7-4810-bfd5-eb89e19a9343",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ba8846fd-34aa-485c-aa79-fad07cd9db86",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5641bb36-4407-4a67-974e-e3d36bbbe620",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "50835155-2ee9-4d53-8853-1f0dc056a564",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ed35034e-71c0-4186-8a5b-79b33ae7e9ca",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "35407e29-97cf-4b42-9b2f-a2b120c8e770",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "291b3007-027b-43dc-94bc-cdbe542ef27b",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "240227fb-8699-4ce4-b34f-14f45c09b311",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4bf4d295-d4ff-4c5c-b6cc-303d09614b4b",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "327483bf-5d1c-4d31-8ac4-ee247b259f33",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "dccaf21c-426b-49db-ae3b-f4ed6c5ba234",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "85012a0c-0457-4e0c-b16c-58422a370e20",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0c678e1f-4b2c-4001-8e9c-db673ae71670",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e737419b-ab0c-4971-bef1-ab610607e25d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "acc26caf-7c15-49e2-b49c-e8de65cecbdf",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "69d4ad62-c620-4043-94eb-7d7032c172de",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2ff6074a-bba8-44c9-9168-43bdb80b3288",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "10c08683-a5a5-4577-b649-25dd8fe4886a",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9848d662-167a-4799-a015-7789dcfba1c9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "217cf28f-6a89-4abe-bb29-80ab08fc72d9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f88c4e75-71c2-46db-b35a-e1902f25928f",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d8a668ec-9a54-4017-b8c7-d0a4477415ad",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "13e168cf-0639-446e-b4cc-079692499f9e",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d1f4026b-9338-4610-b194-6484f93c1488",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3e32893c-2790-41ba-88bc-128f6881400a",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "833a6d06-0b88-42a4-a9eb-5cd19f8d4be9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "340c3c2a-fe41-4edb-89ab-062836300b3d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c1981f9a-7b2a-4e29-8830-fd8a08114a23",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0f4729ad-f22b-4d6f-adfd-87f5198a95a7",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c5bbe934-c4e6-4628-b476-c87a2354aaa4",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "280f9030-fc1d-4249-9906-2cd1359c1b3d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4f0f538b-c27a-40ce-a1d9-dea003e118aa",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "49f88248-06ee-49f1-8492-4278c112e023",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d4c99be1-d035-4ca6-8fe8-f1817ebb8dea",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f48a15ff-b11d-4f8f-93da-2aae1bb6c79a",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "fde4ad98-da5c-4750-90ee-b51f04e21ac1",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "37e27cf6-7af4-4fab-971d-c0b51cb9e263",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "739ad84b-da6e-426b-bae5-e2bee71e88cc",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "54114227-9b39-4b44-960d-762e11b65fc7",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cf85bb05-d672-4c47-b96b-9915a7b57a06",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "33aa06ee-e953-4874-9cd4-bb387da3db62",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b03d081e-3a80-4774-8062-3a2b57b59cdd",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4b9c586e-6216-44e1-9df2-bbf2ac801a79",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ac3f7d64-68b4-42ec-a3bf-73740470308d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1e20df9c-4162-49a5-a04c-e20f2a63462d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7fb74291-2010-4a70-802e-0145f0d3b275",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8bd43d59-587c-4b02-b8cf-4ed8712d09df",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "68bd0574-d3bc-40d7-8edc-4104bfefdbd2",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0adb967a-1a5c-4c2d-8574-adef7580347b",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "25803739-2c41-409f-a0bc-d1a82aecab2e",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5f3f03d0-6ec8-448b-833c-5f10a900f354",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a0489805-fba2-4ddc-b57b-18df85940e5e",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1ec1093f-46e0-459f-8fb4-55147d24bb15",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b74c36cd-440c-45f9-ad90-ba01c9de5dbf",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9f454745-a77f-4ac3-8b97-cb5d80b40175",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4bf82b22-4475-4e73-a3af-f5705506e566",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6c4876cb-1763-4fe7-9ee4-576ba40800e9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "906a4c60-c629-4fc1-91ad-8229486a79a8",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5fb4450d-4747-48bb-8ef0-bfccf2f0ee46",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5064c5a6-df39-4481-8a9d-0d9d674384ed",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3c3c47e8-6c1b-4bca-92c6-ad5c2d54e273",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "08ee5efc-f891-45cc-a185-a46709c7a7ed",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "432dc160-de6b-4e23-b002-b24725e109fe",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1dd34697-cc68-4f42-aa36-c10cb56975a6",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b6a28e56-6b24-4f1d-b59d-0565d5aa5d90",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0a191696-c413-4d44-af6d-9ba64ddc8528",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d2d3d282-8048-4e15-9d16-3f97e449aae9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a2044c9f-806c-4dc0-9e71-335088ec0406",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3ee69378-f3b3-477a-83db-920e6b80b08d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7404e7cb-6ada-4684-865d-8a0911ca4833",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "71495bca-df22-49c2-be60-c71b115f44b9",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f3186fd9-21fe-4ac1-a4db-4b1c9e6910db",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9c8da79d-450e-4dd1-a38e-5197b97935ed",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "be149dc7-8c13-4e8a-bac8-a7220c49880d",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e86c1624-c805-4735-9248-e5c82616632b",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "05344fd7-a21d-4028-8bc0-dc676e519946",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9b6f1f10-3561-43bf-9417-115bceb98a6f",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b4bf4f4e-e714-4277-a5c4-532e8f76e407",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9672baec-182c-4849-b864-96ed64868a71",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a2014802-9ed0-491c-b15b-b22ee0ea4345",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "abb0078f-f928-440f-b3ae-b10104117f52",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "adb44fc1-9715-4b7d-ad41-86c7d67ae765",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0114425e-1c83-4ca0-97f9-0dab9ebdaeb8",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e72aa6bb-374e-4348-a313-959190243072",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "dccf4927-5a58-4173-a6d7-9b93e35c6581",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b410281d-05ea-4e07-99af-22ec8059c237",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3b08a81f-24da-4184-bd6b-6174ebe18c22",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d7269e23-5ecc-41ed-9b26-6f075275e74c",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "957ff248-5e84-4ec8-876c-6d98ece1b8f1",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6eaba1f0-783e-4137-90e1-e352eff5903f",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "12010fb5-f0b4-4e32-b171-a21dcd225895",
+    "candidateId": "lista-3",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "14be2920-7fb6-4ca8-8ba7-9a4d0d1d6092",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "fb8142ea-a315-4ee1-86a3-dabc85c3513e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "62205b5f-ddca-4a2d-9df0-7a5f01959386",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f6e02f40-d90b-4b5d-b15d-121d54d10e4a",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1c434b72-ccaa-4548-aa68-9d58a3db162c",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ef82e022-b2fe-42ef-9d85-0cf5b3a21a60",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "942507be-aa0e-44c5-9575-acd58ea0041b",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "241ed80f-7914-45ae-bae3-4811fedddc42",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d1571273-4e0d-41b8-8290-9c5d7d6d873c",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d75d5518-72b4-4de9-b334-3babd455bf6b",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7a4e8710-b841-40a8-91ec-c14a59dc06bf",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "6402548e-4484-4bfe-b314-7ffeb6e6cb6f",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "865c3d3b-448c-41e2-860e-7bd3f4a42b2e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7f265c72-87c9-4d84-9f71-985ace3c5e65",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "20871b76-0c93-4e77-ac21-662a02617676",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a66e9708-5d94-45e0-a84c-35127a325bf1",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2d8ddac0-34d2-4583-938f-fe0070ff4987",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5abe2246-7ee2-41b4-9164-668f7c8d2375",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d8a45664-0de2-490b-8262-a6591029d6e6",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "75c2331e-3e2a-481d-926b-f0c6566a17b7",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "038691c9-c321-455b-8ecf-b37bc6ff0f86",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f50e689a-06c5-419d-9b1f-37ee90ae3f93",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "67d58b4b-8bb7-49e2-9d54-5220c79a3a5d",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1b32b9c0-cc2a-458b-adbf-4457028382af",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0cec06fd-605c-41b4-b89b-09bb234e3be1",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9ddca1df-30dd-4b7e-9394-44f8c909b4db",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b3d4df7c-dfe4-4ed6-b1ea-86bea9b2f869",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1723649d-bf83-47a1-bac2-8fd3b7c8309b",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "97f2a4f6-eb28-4f71-ab6e-da3ae163a703",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cc1c787d-a980-4070-8f1e-6a24089e1f40",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e89a39e3-584e-4648-ae48-a26737447f8a",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "80b1853c-a6ff-4d6e-b874-8d99957bda12",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "13442238-6c8b-4b9c-8a6a-f9ed3cf8c9fe",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "32bf659d-0089-4ff0-bc41-90877ddc7647",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ca0c4509-552a-4fbd-9b09-3fca43530a25",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "06081a08-e797-4f68-8725-92bafe740ec4",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b991b60b-40a2-4cf7-99ae-eb58e8c21f3f",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "aadfc535-a9b0-4e01-b6cf-6eff9ee72c41",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "01013c53-8442-48f2-9b6f-3959cfeb389f",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cf7edb51-0710-43b1-aaa4-bdb0edb0d33e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0f5b7be3-4fbf-48b3-b34f-f95c559013cc",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "77b40bee-feb0-40cb-9b99-112b7c270f76",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f2ff396a-055e-4516-a10e-e25c7840e0b9",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "89411948-bc6a-44ff-8d34-14dde2293006",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "91039139-29c7-4352-8084-d5b3be9717c2",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f3fcad28-989e-41ff-a133-6ba2ad41a09e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3132bdef-4b65-47d5-b5e4-b72f211b64e4",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f9e79420-1ca9-4206-916a-ef28205aaf2d",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5d7b1331-2e91-4f09-9316-68ff100e89bc",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "aa3a56a1-5b14-4118-8db8-45449cd2c366",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ab535236-efea-487c-b8ef-f6b4d6cdaf13",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "da84e3b8-e5d8-4507-b24b-a353cfa839d1",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "cb20976a-0849-4491-9df9-cc164bb16712",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5f276e0c-2e76-4ba2-99ed-6b419c7385ed",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "15e83b01-0a6a-4cb6-a856-8efde3e28b76",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "527f8336-1844-4bae-ba18-d651ed772fee",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5e89e469-93ae-4229-a746-4010f5fb2a53",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "b266c159-0c2b-4447-a5f0-9496f40af93a",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "38a58ff3-d993-41f8-a4bc-00a87dd6577d",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ffd782f8-d8e1-4d99-b9a6-f6287acbb823",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "185f49a3-a8f4-4620-93fc-780acf83b1b7",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "730e5d46-a880-44d7-b50b-fd5f241ba80c",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2b85cd9b-f27b-4d12-bdf6-ea2f70e43ac3",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c8eb6edf-f4a4-4d89-a098-5afaf85ad5be",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7c74c41b-e992-4b58-b8b7-3157bcdf61e6",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1389130f-8a7f-434f-abe3-af3022b9667e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e6c7a13b-b7db-446b-b0ae-dce425d0281e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4e5a4f73-1902-499c-98d6-5be7dcfb041f",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f33f2aa6-cd9c-4690-b0ca-ada03217f575",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "a30d487f-9b65-4477-b789-22dd678f0717",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d1015f12-df21-438c-ab82-e114938aafda",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c26ff8cd-a406-4e29-a7fa-739a9a490199",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "47001cc4-7c31-4795-a255-ea741f4d5a1f",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1d907a2e-18fb-45a2-be58-e16547d9dd69",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "842d59a0-b759-4a15-be97-e097fb849380",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "bc907b8f-ad58-4f32-9bd9-a00951bf5c0b",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c02004d3-4f89-4be9-8481-1bb41c7e82f2",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d711a03d-206a-4ba5-9130-1cdc2e81fb82",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e9351faa-13d5-4d8d-8cb3-901b836db6e6",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0b88708f-e692-4bec-84bf-0cd340f3247a",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3365fa78-1500-4714-a7ac-e655680c18ab",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4d794d52-badf-4c8e-9a7c-23d5f1738d7d",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "34438537-57b2-42a2-8a15-bbc9be0ef791",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0f2b7956-51f9-48b8-807c-800c8d1c7947",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "425d9198-7f93-4ba2-b7ce-048eb1429515",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9d76babf-3317-4ab1-abbc-1a66b49674e5",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "5f027b6c-ab6a-4298-baa3-be71577f3be3",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ccfe2bfa-8306-42a5-8c81-60eb44700138",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "631f7e9e-7641-4672-9c16-efff462081a0",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "d2400426-f6f4-40c5-b906-2249079a032d",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "822a07c3-8cab-47ac-a9a3-54267854ea28",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "beb6318e-ef98-4e29-958c-1ede8584ed77",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "bf42d757-d812-4dc9-8890-4fede7cb9bc0",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c7d69e9e-a146-4bfa-8eeb-f3ca87480466",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "feb60d49-63ef-4e2e-9216-2651062774de",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "73e4ddb7-51c2-4b1c-ab1a-4c9a49060ff1",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "fe435630-a7b3-4119-847a-d2c8f069814f",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7331db2e-1f1e-4da8-a12e-7d9be7c5ccfd",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "49ae94d7-0611-43db-bb8f-895af10263cf",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "0826c4e9-16e6-4873-acbb-c50122a79fc7",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "aa8f6750-38b9-4289-ba8b-be2b51f56e50",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f7ccfd97-d7b6-4e4a-bbb5-353e16981bfd",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "4d3c7bfd-8aea-4e2b-abb0-401066dfa9e5",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "973b8959-fb41-4e9e-9a72-47380f2cd782",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ffa382dd-4863-4a08-a9ab-9d407b555a3d",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "3e32d161-9193-4030-9681-3bbb86c9e1fa",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "7a488df7-4d83-41ca-9179-c32adaba825e",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "c48f1724-f29f-4e35-91f9-34325d5da8ad",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "bd9d7f58-10d5-475f-8753-08f89ffd10e6",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "bd966c93-3f08-4577-9699-6d04c6cebef1",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2f5ed8ad-f014-4894-8f6d-ce6468d71e18",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "89c6e4b4-4f85-49ce-96b2-c2a57c7e7f66",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "92e5e5cc-61b4-4d41-9ffc-2296bc718f92",
+    "candidateId": "lista-1",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "84cc33fd-4f06-4a0e-a0d3-884ddb1bb3ce",
+    "candidateId": "BLANCO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "daf9cc86-72ea-4e7c-8c25-0885f7cf0674",
+    "candidateId": "BLANCO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "2e48cef4-2f48-4719-b6da-8ff958563195",
+    "candidateId": "BLANCO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "91e430f2-55fa-46cd-8017-5e1d34bce376",
+    "candidateId": "BLANCO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "bb4f0d34-11f1-4e4e-ba7f-a84f810d3127",
+    "candidateId": "BLANCO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8759f55d-afbd-4103-96ff-a4eccd5d5e10",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "1a7bde0c-9abb-422f-a708-6c349b53400f",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "e1835286-ff69-4194-bf31-4bac6c194b6e",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "70ae47d9-d291-49b2-a50d-ddd3d5cd0588",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "8fc60423-df35-4846-8ce7-ef0b4512b7c7",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "ded80d19-1766-460d-b8bd-69180628220a",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "9691f344-7bd4-4aeb-8dc9-e75260864d15",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "542d5060-f63e-455b-80cf-3284cedd7d10",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "52bd04d4-10f5-4755-826c-a8f17a5d4e79",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
+  },
+  {
+    "id": "f0566a58-9a7c-411b-b246-95df56fe47c1",
+    "candidateId": "NULO",
+    "timestamp": "2026-11-24T16:52:00.000Z",
+    "terminalIp": "10.25.144.245"
   }
 ]
