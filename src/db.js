@@ -69,13 +69,19 @@ const db = {
     if (!code) return null;
     const cleanCode = String(code).trim().toUpperCase();
     const padron = this.getPadron();
-    return padron.find(v => String(v.code).trim().toUpperCase() === cleanCode) || null;
+    return padron.find(v => 
+      String(v.code).trim().toUpperCase() === cleanCode || 
+      (v.dni && String(v.dni).trim().toUpperCase() === cleanCode)
+    ) || null;
   },
 
   markVoterAsVoted(code) {
     const cleanCode = String(code).trim().toUpperCase();
     const padron = this.getPadron();
-    const idx = padron.findIndex(v => String(v.code).trim().toUpperCase() === cleanCode);
+    const idx = padron.findIndex(v => 
+      String(v.code).trim().toUpperCase() === cleanCode || 
+      (v.dni && String(v.dni).trim().toUpperCase() === cleanCode)
+    );
     if (idx === -1) return false;
     
     padron[idx].hasVoted = true;
@@ -87,8 +93,12 @@ const db = {
   addVoter(voterData) {
     const padron = this.getPadron();
     const cleanCode = String(voterData.code).trim().toUpperCase();
+    const cleanDni = voterData.dni ? String(voterData.dni).trim().toUpperCase() : cleanCode;
     
-    const existing = padron.find(v => String(v.code).trim().toUpperCase() === cleanCode);
+    const existing = padron.find(v => 
+      String(v.code).trim().toUpperCase() === cleanCode || 
+      (cleanDni && v.dni && String(v.dni).trim().toUpperCase() === cleanDni)
+    );
     if (existing) {
       throw new Error(`El código o DNI ${cleanCode} ya está registrado en el padrón electoral.`);
     }
@@ -96,6 +106,7 @@ const db = {
     const newVoter = {
       id: crypto.randomUUID(),
       code: cleanCode,
+      dni: cleanDni,
       name: voterData.name.trim(),
       grade: voterData.grade.trim(),
       section: voterData.section.trim(),

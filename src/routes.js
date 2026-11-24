@@ -94,6 +94,7 @@ function createRouter(io) {
       success: true,
       voter: {
         code: voter.code,
+        dni: voter.dni,
         name: voter.name,
         grade: voter.grade,
         section: voter.section
@@ -256,9 +257,11 @@ function createRouter(io) {
     if (search) {
       const q = search.toLowerCase();
       voters = voters.filter(v => 
-        v.code.toLowerCase().includes(q) || 
-        v.name.toLowerCase().includes(q) ||
-        v.grade.toLowerCase().includes(q)
+        (v.code && v.code.toLowerCase().includes(q)) || 
+        (v.dni && v.dni.toLowerCase().includes(q)) ||
+        (v.name && v.name.toLowerCase().includes(q)) ||
+        (v.grade && v.grade.toLowerCase().includes(q)) ||
+        (v.section && v.section.toLowerCase().includes(q))
       );
     }
 
@@ -271,7 +274,7 @@ function createRouter(io) {
 
   // Padrón: add a voter
   router.post('/admin/voters', (req, res) => {
-    const { code, name, grade, section } = req.body;
+    const { code, dni, name, grade, section } = req.body;
     if (!code || !name || !grade) {
       return res.status(400).json({
         success: false,
@@ -280,7 +283,7 @@ function createRouter(io) {
     }
 
     try {
-      const voter = db.addVoter({ code, name, grade, section: section || 'A' });
+      const voter = db.addVoter({ code, dni: dni || code, name, grade, section: section || 'A' });
       // Broadcast stats update
       io.emit('padron_updated', { stats: db.getStats() });
       res.json({ success: true, voter, message: 'Estudiante agregado al padrón.' });
@@ -357,17 +360,18 @@ function createRouter(io) {
     const padron = db.getPadron();
     let csv = '\uFEFF';
     csv += 'PADRÓN ELECTORAL Y REGISTRO DE ASISTENCIA\n';
+    csv += `Institución Educativa:;I.E. San Marcelino Champagnat - Cajamarca\n`;
     csv += `Fecha de Reporte:;${new Date().toLocaleString('es-PE')}\n\n`;
-    csv += 'DNI / Código;Apellidos y Nombres;Grado;Sección;Estado;Hora de Sufragio\n';
+    csv += 'Código de Votación (3 Dígitos);DNI;Apellidos y Nombres;Grado;Sección;Estado;Hora de Sufragio\n';
 
     padron.forEach(v => {
       const estado = v.hasVoted ? 'SUFRAGÓ' : 'NO SUFRAGÓ';
       const hora = v.votedAt ? new Date(v.votedAt).toLocaleString('es-PE') : '-';
-      csv += `"${v.code}";"${v.name}";"${v.grade}";"${v.section}";${estado};"${hora}"\n`;
+      csv += `"${v.code}";"${v.dni || ''}";"${v.name}";"${v.grade}";"${v.section}";${estado};"${hora}"\n`;
     });
 
     res.header('Content-Type', 'text/csv; charset=utf-8');
-    res.attachment(`Padron_Asistencia_${Date.now()}.csv`);
+    res.attachment(`Padron_Champagnat_${Date.now()}.csv`);
     res.send(csv);
   });
 

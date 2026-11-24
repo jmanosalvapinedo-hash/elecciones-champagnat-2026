@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    * { margin: 0; padding: 0; }
+    body { background: transparent; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <canvas id="c" width="320" height="320"></canvas>
+  <script>
+    const img = new Image();
+    img.onload = () => {
+      const c = document.getElementById("c");
+      const ctx = c.getContext("2d");
+      ctx.beginPath();
+      ctx.arc(160, 160, 156, 0, Math.PI * 2);
+      ctx.closePath();
+      ctx.clip();
+      ctx.drawImage(img, 305, 230, 304, 304, 0, 0, 320, 320);
+      window.__DONE__ = true;
+    };
+    img.src = "file:///C:/Users/USER/.gemini/antigravity/scratch/municipio-escolar/public/assets/candidates/card_lista_2.jpg";
+  </script>
+</body>
+</html>

@@ -87,7 +87,7 @@
           <img src="assets/insignia.png" alt="Insignia San Marcelino Champagnat" class="w-full h-full object-contain">
         </div>
         <h2 class="text-xl md:text-2xl font-black tracking-tight">Identificación del Elector</h2>
-        <p class="text-sm text-blue-100 mt-1">Ingresa tu Código de Estudiante o DNI para votar</p>
+        <p class="text-sm text-blue-100 mt-1">Ingresa tu Código de Votación (3 dígitos)</p>
       </div>
 
       <!-- Auth Form -->
@@ -104,20 +104,20 @@
         <!-- Input Field -->
         <div>
           <label for="voter-code-input" class="block text-xs font-bold uppercase tracking-wider text-slate-500 mb-2">
-            Código de Estudiante o DNI
+            Código de Votación (3 dígitos)
           </label>
           <div class="relative">
             <input 
               type="text" 
               id="voter-code-input" 
-              placeholder="Ej. 70010001 ó 1001" 
+              placeholder="Ej. 101" 
               maxlength="15"
               autocomplete="off"
-              class="w-full text-center text-2xl md:text-3xl font-mono font-bold tracking-widest text-slate-900 bg-slate-50 border-2 border-slate-300 rounded-xl px-4 py-3 focus:outline-none focus:border-blue-600 focus:bg-white focus:ring-4 focus:ring-blue-100 transition shadow-inner"
+              class="w-full text-center text-3xl md:text-4xl font-mono font-black tracking-widest text-slate-900 bg-slate-50 border-2 border-slate-300 rounded-xl px-4 py-3 focus:outline-none focus:border-blue-600 focus:bg-white focus:ring-4 focus:ring-blue-100 transition shadow-inner"
             >
           </div>
           <p class="text-xs text-slate-500 mt-1.5 text-center">
-            Pide asistencia al presidente de mesa si no recuerdas tu código.
+            Consulta en la mesa de votación si no recuerdas tu código de 3 dígitos.
           </p>
         </div>
 
@@ -184,6 +184,11 @@
       <p id="welcome-student-grade" class="text-base text-slate-600 font-semibold mt-1">
         4to Grado de Secundaria - Sección B
       </p>
+
+      <div class="mt-2 text-xs text-slate-500 font-mono">
+        Código de Voto: <span id="welcome-student-code" class="font-extrabold text-blue-600 px-2 py-0.5 bg-blue-50 rounded border border-blue-200">--</span> 
+        &bull; DNI: <span id="welcome-student-dni" class="font-bold text-slate-700">--</span>
+      </div>
 
       <div class="my-6 p-4 bg-amber-50 rounded-xl border border-amber-200 text-amber-900 text-sm text-left flex items-start space-x-3">
         <svg class="w-5 h-5 flex-shrink-0 text-amber-600 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

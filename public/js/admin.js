@@ -360,7 +360,7 @@ function renderPadronTable(voters) {
   if (voters.length === 0) {
     tbody.innerHTML = `
       <tr>
-        <td colspan="6" class="text-center py-6 text-slate-500">
+        <td colspan="7" class="text-center py-6 text-slate-500">
           No se encontraron estudiantes con los criterios de búsqueda.
         </td>
       </tr>
@@ -379,7 +379,10 @@ function renderPadronTable(voters) {
     const timeText = v.votedAt ? new Date(v.votedAt).toLocaleTimeString('es-PE', { hour: '2-digit', minute: '2-digit' }) : '-';
 
     tr.innerHTML = `
-      <td class="py-3 px-4 font-mono font-bold text-amber-300">${v.code}</td>
+      <td class="py-3 px-4 font-mono font-bold text-amber-300">
+        <span class="px-2 py-0.5 bg-amber-500/10 rounded-md border border-amber-500/30 font-black text-amber-400 text-sm tracking-wider">${v.code}</span>
+      </td>
+      <td class="py-3 px-4 font-mono text-slate-300 text-xs">${v.dni || '-'}</td>
       <td class="py-3 px-4 text-white font-medium">${v.name}</td>
       <td class="py-3 px-4 text-slate-300">${v.grade} - "${v.section}"</td>
       <td class="py-3 px-4">${statusBadge}</td>
@@ -469,15 +472,18 @@ function setupEventListeners() {
   });
   document.getElementById('btn-submit-add-voter').addEventListener('click', handleAddVoter);
 
-  // Generate 20 demo voters
-  document.getElementById('btn-gen-demo-voters').addEventListener('click', async () => {
-    await fetch('/api/admin/voters/demo', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ count: 20 })
+  // Generate demo voters (safe check)
+  const genBtn = document.getElementById('btn-gen-demo-voters');
+  if (genBtn) {
+    genBtn.addEventListener('click', async () => {
+      await fetch('/api/admin/voters/demo', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ count: 20 })
+      });
+      loadPadron();
     });
-    loadPadron();
-  });
+  }
 
   // Reset Election Modal Triggers
   const openResetModal = () => {

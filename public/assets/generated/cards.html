@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; }
+    body { background: #f8fafc; padding: 24px; display: flex; justify-content: center; }
+    .container { width: 1140px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    .card { background: #ffffff; border-radius: 20px; border: 3px solid; box-shadow: 0 10px 20px rgba(0,0,0,0.08); overflow: hidden; display: flex; flex-direction: column; }
+    .stripe { height: 12px; width: 100%; }
+    .card-body { padding: 20px; display: flex; flex-direction: column; }
+    .badge-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+    .badge { padding: 6px 14px; border-radius: 20px; font-weight: 900; font-size: 13px; color: #fff; letter-spacing: 1px; }
+    .number-circle { width: 42px; height: 42px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 22px; color: #fff; }
+    .avatar-wrap { width: 110px; height: 110px; margin: 8px auto; border-radius: 50%; padding: 4px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); }
+    .avatar-wrap svg { width: 100%; height: 100%; border-radius: 50%; }
+    .list-title { text-align: center; font-size: 20px; font-weight: 900; color: #0f172a; margin-top: 8px; }
+    .slogan { text-align: center; font-size: 12px; color: #64748b; font-style: italic; margin-top: 4px; min-height: 34px; }
+    .details-box { margin-top: 14px; padding: 12px; background: #f8fafc; border-radius: 12px; border: 1px solid #e2e8f0; font-size: 11px; }
+    .detail-item { margin-bottom: 6px; }
+    .detail-item:last-child { margin-bottom: 0; }
+    .detail-label { font-size: 10px; font-weight: 800; text-transform: uppercase; color: #64748b; display: block; }
+    .detail-val { font-size: 13px; font-weight: 800; color: #1e293b; }
+    .detail-sub { font-size: 11px; color: #64748b; }
+    .proposals-title { font-size: 11px; font-weight: 800; text-transform: uppercase; color: #475569; margin: 12px 0 6px; }
+    .proposals-list { list-style: none; font-size: 11px; color: #334155; }
+    .proposals-list li { margin-bottom: 4px; padding-left: 14px; position: relative; }
+    .proposals-list li::before { content: '•'; position: absolute; left: 0; font-weight: bold; color: #2563eb; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    
+      <div class="card" style="border-color: #3b82f6;">
+        <div class="stripe" style="background: #2563eb;"></div>
+        <div class="card-body">
+          <div class="badge-bar">
+            <span class="badge" style="background: #2563eb;">LISTA 1</span>
+            <div class="number-circle" style="background: #2563eb;">1</div>
+          </div>
+          <div class="avatar-wrap" style="background: linear-gradient(135deg, #2563eb, #f1f5f9);">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="skin1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffd5b8"/>
+      <stop offset="100%" stop-color="#f6be98"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="96" fill="url(#bg1)"/>
+  <circle cx="100" cy="100" r="92" fill="#eff6ff" stroke="#93c5fd" stroke-width="3"/>
+  <!-- Hair back -->
+  <path d="M60 90 Q100 45 140 90 Q145 60 100 45 Q55 60 60 90 Z" fill="#2d221e"/>
+  <!-- Neck -->
+  <rect x="88" y="120" width="24" height="24" fill="url(#skin1)"/>
+  <!-- Head -->
+  <ellipse cx="100" cy="95" rx="34" ry="40" fill="url(#skin1)"/>
+  <!-- Hair front -->
+  <path d="M66 85 Q75 55 100 55 Q125 55 134 82 Q125 65 100 65 Q75 65 66 85 Z" fill="#2d221e"/>
+  <!-- Eyes -->
+  <circle cx="88" cy="95" r="4" fill="#1e293b"/>
+  <circle cx="112" cy="95" r="4" fill="#1e293b"/>
+  <circle cx="89" cy="94" r="1.5" fill="#ffffff"/>
+  <circle cx="113" cy="94" r="1.5" fill="#ffffff"/>
+  <!-- Eyebrows -->
+  <path d="M82 87 Q88 84 94 87" stroke="#2d221e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M106 87 Q112 84 118 87" stroke="#2d221e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Smile -->
+  <path d="M90 112 Q100 124 110 112" stroke="#b45309" stroke-width="3" fill="#ffffff" stroke-linecap="round"/>
+  <!-- School Uniform Collar and Blazer -->
+  <!-- White Shirt -->
+  <polygon points="100,140 82,130 118,130" fill="#ffffff"/>
+  <!-- Blue School Blazer -->
+  <path d="M42 200 L65 145 Q100 135 135 145 L158 200 Z" fill="#1e3a8a"/>
+  <!-- Lapel -->
+  <polygon points="100,165 78,140 88,135" fill="#1d4ed8"/>
+  <polygon points="100,165 122,140 112,135" fill="#1d4ed8"/>
+  <!-- School Tie (Gold/Blue striped) -->
+  <polygon points="97,135 103,135 105,175 100,182 95,175" fill="#d97706"/>
+  <!-- School Badge -->
+  <circle cx="68" cy="165" r="6" fill="#fbbf24" stroke="#ffffff" stroke-width="1.5"/>
+</svg>
+
+          </div>
+          <h2 class="list-title">Fuerza Estudiantil</h2>
+          <p class="slogan">"Unidos por un colegio más justo, innovador y participativo"</p>
+          <div class="details-box">
+            <div class="detail-item">
+              <span class="detail-label">Candidato(a) a Alcalde(sa):</span>
+              <div class="detail-val">Mateo Salazar Quispe</div>
+              <div class="detail-sub">(5to de Secundaria - A)</div>
+            </div>
+            <div class="detail-item">
+              <span class="detail-label">Teniente Alcalde(sa):</span>
+              <div class="detail-val" style="font-size: 12px;">Camila Vargas Huamán</div>
+              <div class="detail-sub">(4to de Secundaria - B)</div>
+            </div>
+          </div>
+          <div class="proposals-title">Propuestas de Campaña:</div>
+          <ul class="proposals-list">
+            <li>Instalación de puntos de reciclaje y dispensadores de agua en patios.</li><li>Gran campeonato inter-aulas de fútbol, vóley y torneo de ajedrez.</li><li>Mejora de la conectividad WiFi y talleres de computación extracurricular.</li><li>Buzón digital de ayuda y prevención contra el acoso escolar.</li>
+          </ul>
+        </div>
+      </div>
+    
+      <div class="card" style="border-color: #10b981;">
+        <div class="stripe" style="background: #059669;"></div>
+        <div class="card-body">
+          <div class="badge-bar">
+            <span class="badge" style="background: #059669;">LISTA 2</span>
+            <div class="number-circle" style="background: #059669;">2</div>
+          </div>
+          <div class="avatar-wrap" style="background: linear-gradient(135deg, #059669, #f1f5f9);">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="skin2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fcd5be"/>
+      <stop offset="100%" stop-color="#f5be9d"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="96" fill="url(#bg2)"/>
+  <circle cx="100" cy="100" r="92" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="3"/>
+  <!-- Long Hair Back -->
+  <path d="M50 85 Q45 150 65 170 Q100 180 135 170 Q155 150 150 85 Q100 40 50 85 Z" fill="#3b2219"/>
+  <!-- Neck -->
+  <rect x="88" y="120" width="24" height="24" fill="url(#skin2)"/>
+  <!-- Head -->
+  <ellipse cx="100" cy="95" rx="33" ry="38" fill="url(#skin2)"/>
+  <!-- Hair Front Style -->
+  <path d="M55 85 Q75 52 100 52 Q125 52 145 85 Q135 65 100 65 Q65 65 55 85 Z" fill="#3b2219"/>
+  <path d="M52 85 Q58 115 65 140 Q62 105 68 85 Z" fill="#3b2219"/>
+  <path d="M148 85 Q142 115 135 140 Q138 105 132 85 Z" fill="#3b2219"/>
+  <!-- Hairband / Green ribbon -->
+  <path d="M60 70 Q100 56 140 70" stroke="#059669" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <circle cx="88" cy="95" r="4" fill="#1e293b"/>
+  <circle cx="112" cy="95" r="4" fill="#1e293b"/>
+  <circle cx="89" cy="94" r="1.5" fill="#ffffff"/>
+  <circle cx="113" cy="94" r="1.5" fill="#ffffff"/>
+  <!-- Lashes & Eyebrows -->
+  <path d="M82 86 Q88 83 94 86" stroke="#3b2219" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M106 86 Q112 83 118 86" stroke="#3b2219" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Smile -->
+  <path d="M89 113 Q100 125 111 113" stroke="#be185d" stroke-width="3" fill="#ffffff" stroke-linecap="round"/>
+  <!-- School Uniform -->
+  <polygon points="100,138 80,128 120,128" fill="#ffffff"/>
+  <!-- Green School Blazer -->
+  <path d="M42 200 L65 145 Q100 135 135 145 L158 200 Z" fill="#064e3b"/>
+  <!-- Lapel -->
+  <polygon points="100,165 78,140 88,135" fill="#047857"/>
+  <polygon points="100,165 122,140 112,135" fill="#047857"/>
+  <!-- Tie Ribbon -->
+  <polygon points="98,136 102,136 106,170 100,175 94,170" fill="#f59e0b"/>
+  <!-- School Crest Pin -->
+  <circle cx="68" cy="165" r="6" fill="#10b981" stroke="#ffffff" stroke-width="1.5"/>
+</svg>
+
+          </div>
+          <h2 class="list-title">Innovación y Acción</h2>
+          <p class="slogan">"Acciones reales para transformar nuestra convivencia escolar"</p>
+          <div class="details-box">
+            <div class="detail-item">
+              <span class="detail-label">Candidato(a) a Alcalde(sa):</span>
+              <div class="detail-val">Valeria Mendoza Castillo</div>
+              <div class="detail-sub">(5to de Secundaria - B)</div>
+            </div>
+            <div class="detail-item">
+              <span class="detail-label">Teniente Alcalde(sa):</span>
+              <div class="detail-val" style="font-size: 12px;">Sebastián Paredes Torres</div>
+              <div class="detail-sub">(4to de Secundaria - A)</div>
+            </div>
+          </div>
+          <div class="proposals-title">Propuestas de Campaña:</div>
+          <ul class="proposals-list">
+            <li>Talleres sabatinos de oratoria, robótica y primeros auxilios.</li><li>Feria de ciencias y festival gastronómico para fondos de graduación.</li><li>Programa 'Aulas Verdes': adopción y cuidado de jardines escolares.</li><li>Renovación de implementos de educación física y recreación.</li>
+          </ul>
+        </div>
+      </div>
+    
+      <div class="card" style="border-color: #f59e0b;">
+        <div class="stripe" style="background: #d97706;"></div>
+        <div class="card-body">
+          <div class="badge-bar">
+            <span class="badge" style="background: #d97706;">LISTA 3</span>
+            <div class="number-circle" style="background: #d97706;">3</div>
+          </div>
+          <div class="avatar-wrap" style="background: linear-gradient(135deg, #d97706, #f1f5f9);">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+    <linearGradient id="skin3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbd6bd"/>
+      <stop offset="100%" stop-color="#e9b793"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="96" fill="url(#bg3)"/>
+  <circle cx="100" cy="100" r="92" fill="#fffbeb" stroke="#fde68a" stroke-width="3"/>
+  <!-- Hair back -->
+  <path d="M60 88 Q100 48 140 88 Q142 55 100 45 Q58 55 60 88 Z" fill="#1e1b18"/>
+  <!-- Neck -->
+  <rect x="88" y="120" width="24" height="24" fill="url(#skin3)"/>
+  <!-- Head -->
+  <ellipse cx="100" cy="95" rx="34" ry="40" fill="url(#skin3)"/>
+  <!-- Hair front (modern fade style) -->
+  <path d="M66 84 Q78 54 100 52 Q122 54 134 84 Q122 66 100 66 Q78 66 66 84 Z" fill="#1e1b18"/>
+  <path d="M72 65 Q95 50 120 60 Q105 52 82 56 Z" fill="#382f29"/>
+  <!-- Glasses -->
+  <rect x="74" y="88" width="22" height="15" rx="3" fill="none" stroke="#334155" stroke-width="2.5"/>
+  <rect x="104" y="88" width="22" height="15" rx="3" fill="none" stroke="#334155" stroke-width="2.5"/>
+  <line x1="96" y1="94" x2="104" y2="94" stroke="#334155" stroke-width="2.5"/>
+  <line x1="68" y1="93" x2="74" y2="93" stroke="#334155" stroke-width="2"/>
+  <line x1="126" y1="93" x2="132" y2="93" stroke="#334155" stroke-width="2"/>
+  <!-- Eyes -->
+  <circle cx="85" cy="95" r="3.5" fill="#1e293b"/>
+  <circle cx="115" cy="95" r="3.5" fill="#1e293b"/>
+  <circle cx="86" cy="94" r="1.2" fill="#ffffff"/>
+  <circle cx="116" cy="94" r="1.2" fill="#ffffff"/>
+  <!-- Eyebrows -->
+  <path d="M77 82 Q85 80 92 84" stroke="#1e1b18" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M108 84 Q115 80 123 82" stroke="#1e1b18" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Smile -->
+  <path d="M90 114 Q100 125 110 114" stroke="#c2410c" stroke-width="3" fill="#ffffff" stroke-linecap="round"/>
+  <!-- School Uniform -->
+  <polygon points="100,138 80,128 120,128" fill="#ffffff"/>
+  <!-- Blazer -->
+  <path d="M42 200 L65 145 Q100 135 135 145 L158 200 Z" fill="#78350f"/>
+  <polygon points="100,165 78,140 88,135" fill="#92400e"/>
+  <polygon points="100,165 122,140 112,135" fill="#92400e"/>
+  <!-- Tie (Gold/Amber) -->
+  <polygon points="97,135 103,135 105,175 100,182 95,175" fill="#f59e0b"/>
+  <circle cx="68" cy="165" r="6" fill="#fbbf24" stroke="#ffffff" stroke-width="1.5"/>
+</svg>
+
+          </div>
+          <h2 class="list-title">Unión y Liderazgo</h2>
+          <p class="slogan">"Tu voz, nuestro compromiso y el futuro que merecemos"</p>
+          <div class="details-box">
+            <div class="detail-item">
+              <span class="detail-label">Candidato(a) a Alcalde(sa):</span>
+              <div class="detail-val">Alejandro Cruz Delgado</div>
+              <div class="detail-sub">(5to de Secundaria - C)</div>
+            </div>
+            <div class="detail-item">
+              <span class="detail-label">Teniente Alcalde(sa):</span>
+              <div class="detail-val" style="font-size: 12px;">Fernanda Silva Aguirre</div>
+              <div class="detail-sub">(4to de Secundaria - C)</div>
+            </div>
+          </div>
+          <div class="proposals-title">Propuestas de Campaña:</div>
+          <ul class="proposals-list">
+            <li>Creación de la Radio Escolar y Podcast oficial de estudiantes.</li><li>Campaña constante de salud mental y bienestar emocional.</li><li>Cine-foro mensual educativo en el auditorio principal.</li><li>Botiquines equipados en cada pabellón y chequeo de baños.</li>
+          </ul>
+        </div>
+      </div>
+    
+  </div>
+</body>
+</html>

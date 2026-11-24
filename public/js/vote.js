@@ -129,6 +129,8 @@ function renderCandidates(candidates) {
     card.className = 'bg-white rounded-3xl border-2 hover:border-blue-500 shadow-md hover:shadow-xl transition-card flex flex-col justify-between overflow-hidden relative group';
     card.style.borderColor = c.border || '#cbd5e1';
 
+    const sloganHtml = c.slogan ? `<p class="text-xs text-slate-500 italic mt-1 line-clamp-2 px-2">"${c.slogan}"</p>` : '';
+
     card.innerHTML = `
       <!-- Top Colored Stripe -->
       <div class="h-3 w-full" style="background-color: ${c.color}"></div>
@@ -152,35 +154,22 @@ function renderCandidates(candidates) {
           <h3 class="text-xl font-black text-slate-900 tracking-tight leading-snug">
             ${c.name}
           </h3>
-          <p class="text-xs text-slate-500 italic mt-1 line-clamp-2 px-2">
-            "${c.slogan}"
-          </p>
+          ${sloganHtml}
         </div>
 
         <!-- Candidate Details -->
-        <div class="mt-4 pt-3 border-t border-slate-100 text-xs space-y-1.5 text-slate-700 bg-slate-50/80 p-3 rounded-2xl">
+        <div class="mt-4 pt-3 border-t border-slate-100 text-xs space-y-2 text-slate-700 bg-slate-50/80 p-3.5 rounded-2xl">
           <div>
-            <span class="text-slate-400 font-bold uppercase block text-[10px]">Candidato a Alcalde(sa):</span>
-            <span class="font-extrabold text-slate-900 text-sm">${c.alcalde.name}</span>
-            <span class="text-slate-500 text-[11px] block">(${c.alcalde.grade})</span>
+            <span class="text-slate-400 font-bold uppercase block text-[10px]">CANDIDATO(A) A ALCALDE(SA):</span>
+            <span class="font-extrabold text-slate-900 text-sm block">${c.alcalde.name}</span>
+            <span class="text-slate-500 text-[11px] block font-medium">(${c.alcalde.grade})</span>
           </div>
-          <div class="pt-1">
-            <span class="text-slate-400 font-bold uppercase block text-[10px]">Teniente Alcalde(sa):</span>
-            <span class="font-bold text-slate-800">${c.teniente.name}</span>
+          <div class="pt-1.5 border-t border-slate-200/60">
+            <span class="text-slate-400 font-bold uppercase block text-[10px]">TENIENTE ALCALDE(SA):</span>
+            <span class="font-bold text-slate-800 text-sm block">${c.teniente.name}</span>
+            <span class="text-slate-500 text-[11px] block font-medium">(${c.teniente.grade})</span>
           </div>
         </div>
-
-        <!-- View Proposals Button -->
-        <button 
-          type="button" 
-          class="btn-view-proposals mt-3 text-xs font-bold text-blue-600 hover:text-blue-800 py-1.5 px-3 rounded-lg hover:bg-blue-50 transition flex items-center justify-center space-x-1"
-          data-id="${c.id}"
-        >
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
-          </svg>
-          <span>Ver Plan y Propuestas</span>
-        </button>
 
       </div>
 
@@ -224,17 +213,6 @@ function renderCandidates(candidates) {
         color: btn.getAttribute('data-color')
       };
       openConfirmModal(option);
-    });
-  });
-
-  // Attach event listeners to proposals buttons
-  document.querySelectorAll('.btn-view-proposals').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const id = btn.getAttribute('data-id');
-      const candidate = candidateLists.find(c => c.id === id);
-      if (candidate) {
-        openProposalsModal(candidate);
-      }
     });
   });
 }
@@ -340,6 +318,10 @@ async function handleValidateVoter() {
     currentVoter = data.voter;
     document.getElementById('welcome-student-name').textContent = `¡Hola, ${currentVoter.name}!`;
     document.getElementById('welcome-student-grade').textContent = `${currentVoter.grade} - Sección "${currentVoter.section}"`;
+    const codeSpan = document.getElementById('welcome-student-code');
+    if (codeSpan) codeSpan.textContent = currentVoter.code;
+    const dniSpan = document.getElementById('welcome-student-dni');
+    if (dniSpan) dniSpan.textContent = currentVoter.dni || 'No registrado';
 
     document.getElementById('ballot-voter-name').textContent = currentVoter.name;
     document.getElementById('ballot-voter-grade').textContent = `${currentVoter.grade} • Sec. "${currentVoter.section}"`;
@@ -370,7 +352,7 @@ function openConfirmModal(option) {
   document.getElementById('confirm-badge').style.backgroundColor = option.color;
   document.getElementById('confirm-name').textContent = option.name;
   document.getElementById('confirm-candidate-name').textContent = option.candidateName;
-  document.getElementById('confirm-slogan').textContent = `"${option.slogan}"`;
+  document.getElementById('confirm-slogan').textContent = option.slogan ? `"${option.slogan}"` : '';
 
   const previewBox = document.getElementById('confirm-preview-box');
   previewBox.style.borderColor = option.color;
