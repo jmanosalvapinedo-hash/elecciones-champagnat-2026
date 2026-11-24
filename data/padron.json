@@ -7,8 +7,8 @@
     "grade": "1ro de Secundaria",
     "section": "A",
     "status": "DEFINITIVA",
-    "hasVoted": false,
-    "votedAt": null
+    "hasVoted": true,
+    "votedAt": "2026-11-24T17:28:04.805Z"
   },
   {
     "id": "2",
