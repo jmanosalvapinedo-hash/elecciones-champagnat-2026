@@ -350,7 +350,7 @@ async function buildActaDocx() {
     new Paragraph({
       spacing: { before: 160, after: 80 },
       children: [
-        new TextRun({ text: "IV. INTEGRANTES ELECTOS DEL MUNICIPIO ESCOLAR 2026 - 2027", bold: true, size: 20, color: "1e3a8a", font: "Arial" })
+        new TextRun({ text: "IV. AUTORIDADES ESCOLARES ELECTAS 2026 - 2027", bold: true, size: 20, color: "1e3a8a", font: "Arial" })
       ]
     }),
 
@@ -380,30 +380,6 @@ async function buildActaDocx() {
             new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Sergio Manuel Soto Arbildo", bold: true, size: 16, font: "Arial" })] })] }),
             new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "75640775", size: 15, font: "Arial" })] })] }),
             new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "4to \"C\"", bold: true, size: 15, font: "Arial" })] })] })
-          ]
-        }),
-        new TableRow({
-          children: [
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Regidor de Educación", bold: true, size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Jose David Aceijas Galvez", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "77300942", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "3ro \"E\"", size: 15, font: "Arial" })] })] })
-          ]
-        }),
-        new TableRow({
-          children: [
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Regidor de Derechos", bold: true, size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Manuel Del Campo Medina", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "77000271", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "3ro \"E\"", size: 15, font: "Arial" })] })] })
-          ]
-        }),
-        new TableRow({
-          children: [
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Regidor de Bienestar", bold: true, size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Sebastian Zuñiga Ambrosio", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "62535012", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "3ro \"E\"", size: 15, font: "Arial" })] })] })
           ]
         })
       ]
