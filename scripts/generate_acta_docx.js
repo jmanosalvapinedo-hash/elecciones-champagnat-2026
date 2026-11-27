@@ -218,8 +218,8 @@ async function buildActaDocx() {
         new TableRow({
           children: [
             new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "2", bold: true, color: "047857", size: 18, font: "Arial" })] })] }),
-            new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ children: [new TextRun({ text: "Renovación champagnina", bold: true, color: "047857", size: 17, font: "Arial" }), new TextRun({ text: "  [GANADORA]", bold: true, size: 14, color: "059669", font: "Arial" })] })] }),
-            new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ children: [new TextRun({ text: "Jhostin Anchav Vega\n", bold: true, size: 16, font: "Arial" }), new TextRun({ text: "Teniente: Sergio Soto Arbildo (4to C)", size: 14, color: "475569", font: "Arial" })] })] }),
+            new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ children: [new TextRun({ text: "Movimiento Revolucionario Champagnino", bold: true, color: "047857", size: 17, font: "Arial" }), new TextRun({ text: " (Renovación champagnina)", size: 14, color: "065f46", font: "Arial" }), new TextRun({ text: "  [GANADORA]", bold: true, size: 14, color: "059669", font: "Arial" })] })] }),
+            new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ children: [new TextRun({ text: "Jhostin Aurelio Anchay Vega\n", bold: true, size: 16, font: "Arial" }), new TextRun({ text: "Teniente: Sergio Manuel Soto Arbildo (4to \"C\")", size: 14, color: "475569", font: "Arial" })] })] }),
             new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "281", bold: true, color: "047857", size: 18, font: "Arial" })] })] }),
             new TableCell({ shading: { type: ShadingType.CLEAR, fill: "ecfdf5" }, children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "55.0 %", bold: true, color: "047857", size: 17, font: "Arial" })] })] })
           ]
@@ -318,9 +318,16 @@ async function buildActaDocx() {
                 }),
                 new Paragraph({
                   alignment: AlignmentType.CENTER,
-                  spacing: { after: 60 },
+                  spacing: { after: 40 },
                   children: [
-                    new TextRun({ text: "LISTA N° 2: \"RENOVACIÓN CHAMPAGNINA\"", bold: true, size: 26, color: "065f46", font: "Arial" })
+                    new TextRun({ text: "LISTA N° 2: \"MOVIMIENTO REVOLUCIONARIO CHAMPAGNINO\"", bold: true, size: 24, color: "065f46", font: "Arial" })
+                  ]
+                }),
+                new Paragraph({
+                  alignment: AlignmentType.CENTER,
+                  spacing: { after: 80 },
+                  children: [
+                    new TextRun({ text: "(Renovación champagnina) — Lema: \"Desarrollo, Unión, Respeto.\"", italics: true, size: 17, color: "047857", font: "Arial" })
                   ]
                 }),
                 new Paragraph({
@@ -353,23 +360,50 @@ async function buildActaDocx() {
       rows: [
         new TableRow({
           children: [
-            new TableCell({ width: { size: 35, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ children: [new TextRun({ text: "CARGO ELECTO", bold: true, color: "ffffff", size: 16, font: "Arial" })] })] }),
-            new TableCell({ width: { size: 45, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ children: [new TextRun({ text: "ESTUDIANTE ELECTO(A)", bold: true, color: "ffffff", size: 16, font: "Arial" })] })] }),
-            new TableCell({ width: { size: 20, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "GRADO Y SECC.", bold: true, color: "ffffff", size: 16, font: "Arial" })] })] })
+            new TableCell({ width: { size: 28, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ children: [new TextRun({ text: "CARGO ELECTO", bold: true, color: "ffffff", size: 15, font: "Arial" })] })] }),
+            new TableCell({ width: { size: 40, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ children: [new TextRun({ text: "APELLIDOS Y NOMBRES", bold: true, color: "ffffff", size: 15, font: "Arial" })] })] }),
+            new TableCell({ width: { size: 16, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "DNI", bold: true, color: "ffffff", size: 15, font: "Arial" })] })] }),
+            new TableCell({ width: { size: 16, type: WidthType.PERCENTAGE }, shading: { type: ShadingType.CLEAR, fill: "047857" }, children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "GRADO / SECC.", bold: true, color: "ffffff", size: 15, font: "Arial" })] })] })
           ]
         }),
         new TableRow({
           children: [
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Alcalde Escolar", bold: true, size: 16, color: "047857", font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Jhostin Anchav Vega", bold: true, size: 17, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "4to de Secundaria \"C\"", size: 16, font: "Arial" })] })] })
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Alcalde Escolar", bold: true, size: 15, color: "047857", font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Jhostin Aurelio Anchay Vega", bold: true, size: 16, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "62485011", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "4to \"C\"", bold: true, size: 15, font: "Arial" })] })] })
           ]
         }),
         new TableRow({
           children: [
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Teniente Alcalde Escolar", bold: true, size: 16, color: "047857", font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Sergio Soto Arbildo", bold: true, size: 17, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "4to de Secundaria \"C\"", size: 16, font: "Arial" })] })] })
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Teniente Alcalde", bold: true, size: 15, color: "047857", font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Sergio Manuel Soto Arbildo", bold: true, size: 16, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "75640775", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "4to \"C\"", bold: true, size: 15, font: "Arial" })] })] })
+          ]
+        }),
+        new TableRow({
+          children: [
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Regidor de Educación", bold: true, size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Jose David Aceijas Galvez", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "77300942", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "3ro \"E\"", size: 15, font: "Arial" })] })] })
+          ]
+        }),
+        new TableRow({
+          children: [
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Regidor de Derechos", bold: true, size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Manuel Del Campo Medina", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "77000271", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "3ro \"E\"", size: 15, font: "Arial" })] })] })
+          ]
+        }),
+        new TableRow({
+          children: [
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Regidor de Bienestar", bold: true, size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Sebastian Zuñiga Ambrosio", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "62535012", size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: "3ro \"E\"", size: 15, font: "Arial" })] })] })
           ]
         })
       ]

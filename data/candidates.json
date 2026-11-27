@@ -25,22 +25,44 @@
     "id": "lista-2",
     "number": 2,
     "name": "Renovación champagnina",
-    "slogan": "",
+    "slogan": "Desarrollo, Unión, Respeto.",
     "color": "#059669",
     "bgLight": "#ecfdf5",
     "border": "#10b981",
     "badge": "LISTA 2",
     "alcalde": {
-      "name": "Jhostin Anchav Vega",
-      "grade": "4to de secundaria - C",
-      "cargo": "Candidato(a) a Alcalde(sa)",
+      "name": "Jhostin Aurelio Anchay Vega",
+      "dni": "62485011",
+      "grade": "4to de Secundaria - C",
+      "cargo": "Candidato a Alcalde",
       "photo": "assets/candidates/logo_lista_2.png"
     },
     "teniente": {
-      "name": "Sergio Soto Arbildo",
-      "grade": "4to de secundaria - C",
-      "cargo": "Teniente Alcalde(sa)"
+      "name": "Sergio Manuel Soto Arbildo",
+      "dni": "75640775",
+      "grade": "4to de Secundaria - C",
+      "cargo": "Teniente Alcalde"
     },
+    "regidores": [
+      {
+        "cargo": "Regidor de Educación",
+        "name": "Jose David Aceijas Galvez",
+        "dni": "77300942",
+        "grade": "3ro de Secundaria - E"
+      },
+      {
+        "cargo": "Regidor de Derechos",
+        "name": "Manuel Del Campo Medina",
+        "dni": "77000271",
+        "grade": "3ro de Secundaria - E"
+      },
+      {
+        "cargo": "Regidor de Promoción del Bienestar",
+        "name": "Sebastian Zuñiga Ambrosio",
+        "dni": "62535012",
+        "grade": "3ro de Secundaria - E"
+      }
+    ],
     "proposals": []
   },
   {
@@ -55,13 +77,13 @@
     "alcalde": {
       "name": "Thiago Jhean pool campos Fernández",
       "grade": "2DO \"B\"",
-      "cargo": "Candidato(a) a Alcalde(sa)",
+      "cargo": "Candidato a Alcalde",
       "photo": "assets/candidates/logo_lista_3.png"
     },
     "teniente": {
       "name": "Marco Antonio Huaccha Cotrina",
       "grade": "2do \"B\"",
-      "cargo": "Teniente Alcalde(sa)"
+      "cargo": "Teniente Alcalde"
     },
     "proposals": []
   }

@@ -249,7 +249,7 @@ async function buildDocx() {
         new TableRow({
           children: [
             new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "LISTA 2: Renovación champagnina", bold: true, color: "059669", size: 15, font: "Arial" })] })] }),
-            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Jhostin Anchav Vega", bold: true, size: 15, font: "Arial" })] })] }),
+            new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Jhostin Aurelio Anchay Vega", bold: true, size: 15, font: "Arial" })] })] }),
             new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "Sergio Soto Arbildo", size: 15, font: "Arial" })] })] }),
             new TableCell({ children: [new Paragraph({ children: [new TextRun({ text: "4to de secundaria - C", size: 15, font: "Arial" })] })] })
           ]
